@@ -1,0 +1,9 @@
+openai
+autogen-agentchat~=0.2
+chromadb
+autogen-agentchat[retrievechat]~=0.2
+flaml[automl]
+flaml
+ag2[retrievechat]
+ag2[retrievechat-pgvector]
+streamlit
