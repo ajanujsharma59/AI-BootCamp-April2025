@@ -1,1 +1,25 @@
+Qualifications
+Bachelor's/Master’s degree in Mathematics, Statistics, Data science, Computer Science, Computer Engineering, or related field 
+3 year(s) data-science experience (e.g., managing structured and unstructured data, applying statistical techniques, and reporting results) 
+Experience building product/business metrics  
+Solid foundation of statistical modeling, machine learning algorithms and experimental design.   
+Hands-on experience with big data technologies as well as data analytics tools  
+Excellent data visualization skills to be able to present insights that drive business impact  
+Excellent communication & collaboration skills   
+Strong track record of self-directed execution 
+ 
 
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:  
+
+ 
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter. 
+
+Responsibilities
+Builds deep understanding of the Microsoft Security business, technology, and customers.  
+Applies (or develops if necessary) tools and pipelines to efficiently collect, clean, and prepare massive volumes of data for analysis.  
+Transforms problems into analysis plans for data telemetry, metrics, predictive modeling, reporting, and experimentation. Communicates and gets alignment on analytics priorities. 
+Maintaining a robust understanding of evolving AI technologies to keep solutions cutting edge. 
+Partners with teams across Microsoft & within Identity division to drive customer opportunities and revenue growth.  
+Communicates key outcomes with stakeholders and leadership.  
+Mentors other data scientists and data engineers. 
